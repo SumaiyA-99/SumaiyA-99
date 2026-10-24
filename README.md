@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jannatul Ferdaus Sumaiya</h1>
+<h1 align="center">Hi, I'm Jannatul Ferdaus Sumaiya</h1>
 <h3 align="center">A passionate Developer and Designer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiya-99&label=Profile%20views&color=0e75b6&style=flat" alt="sumaiya-99" /> </p>
